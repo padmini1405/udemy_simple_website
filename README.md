@@ -23,7 +23,7 @@ The project is created to practice basic front-end concepts such as layout, alig
 This project is built for learning purposes to improve HTML and CSS skills and understand basic website structure.
 
 ## How to View
-You can access my portfolio website by visiting this [link] feel free to explore the content and get in touch.
+You can access my portfolio website by visiting this https://padmini1405.github.io/udemy_simple_website/ feel free to explore the content and get in touch.
 
 Developed by Padmini K
 
